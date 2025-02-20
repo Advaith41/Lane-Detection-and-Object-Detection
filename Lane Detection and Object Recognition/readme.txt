@@ -1,5 +1,5 @@
 #*************************************************************************************
-#Creator - Shreejit Gajanan Deshmukh, Venkata Sai Advaith Kandiraju                  *
+#Creators - Venkata Sai Advaith Kandiraju, Shreejit Gajanan Deshmukh                  *
 #PRCV spring 23' - Final Project Part 3                                              *
 #Lane detection, vehicle detection, driving assistance in video generation           *
 #*************************************************************************************
