@@ -8,7 +8,8 @@ The system incorporates **YOLOv8**, a powerful object detection model, to identi
 Real-time video visualization of lane detection and object recognition is provided, demonstrating the practical application of the system and its potential as an effective driving assistant.
 
 ## Algorithm in Action
-Here’s a sample of the system in action: ![Output Lane GIF](https://github.com/Advaith41/Lane-Detection-and-Object-Recognition/blob/main/Lane%20Detection%20and%20Object%20Recognition/impl_vid/challenge/output_lane.gif)
+Here’s a sample of the system in action:
+![Output Lane GIF](https://github.com/Advaith41/Lane-Detection-and-Object-Recognition/blob/main/Lane%20Detection%20and%20Object%20Recognition/impl_vid/challenge/output_lane.gif)
 
 
 ## I. Introduction
