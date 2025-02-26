@@ -8,7 +8,7 @@ The system incorporates **YOLOv8**, a powerful object detection model, to identi
 Real-time video visualization of lane detection and object recognition is provided, demonstrating the practical application of the system and its potential as an effective driving assistant.
 
 ## Algorithm in Action
-Here’s a sample of the system in action: [solidWhiteRight.mp4](/impl_vid/challenge.mp4).
+Here’s a sample of the system in action: [challenge.mp4](Lane-Detection-and-Object-Recognition/Lane%20Detection%20and%20Object%20Recognition/impl_vid/challenge.mp4)
 
 ## I. Introduction
 With the rapid increase in road traffic, ensuring driving safety has become a priority. In this context, **Visual Driving Assistants (VDAs)** are being developed to help drivers navigate the road more safely by analyzing their surroundings and providing crucial driving feedback.
